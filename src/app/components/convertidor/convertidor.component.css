@@ -1,0 +1,14 @@
+.badge{
+    margin: 5px;
+    font-size: 150%;
+    padding: auto;
+}
+
+label{
+    font-size: 150%;
+    color: aliceblue;
+}
+
+.form-group{
+    margin: 10px;
+}
